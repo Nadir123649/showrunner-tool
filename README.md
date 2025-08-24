@@ -22,4 +22,6 @@ This project demonstrates a simple drag-and-drop interface for working with char
 2. Install dependencies
    ```bash
    npm install
+
+   npm run dev
    ```
